@@ -165,7 +165,7 @@ public class Search {
 	    return title;
 	} //title
 	
-} //test
+} //search
 
 
 
